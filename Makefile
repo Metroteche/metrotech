@@ -882,9 +882,11 @@ qrc_qml.cpp: ../webapps/qml.qrc \
 		../webapps/icones/tower-broadcastw.png \
 		../webapps/icones/routew.png \
 		../webapps/icones/globe.svg \
+		../webapps/icones/circle-info.svg \
 		../webapps/icones/laptop.svg \
 		../webapps/icones/whatsapp.png \
 		../webapps/icones/aperturew.png \
+		../webapps/icones/message-question.svg \
 		../webapps/icones/address-book.svg \
 		../webapps/icones/hand-holding-boxw.png \
 		../webapps/icones/arrow-right-from-bracketw.png \
