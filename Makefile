@@ -867,6 +867,12 @@ qrc_qml.cpp: ../webapps/qml.qrc \
 		../webapps/produit.qml \
 		../webapps/main.qml \
 		../webapps/fontawesome-webfont.ttf \
+		../webapps/mtec-img/mtec-im1.png \
+		../webapps/mtec-img/mtec-im4.png \
+		../webapps/mtec-img/mtec-im2.png \
+		../webapps/mtec-img/mtec-im5.png \
+		../webapps/mtec-img/mtec-im3.png \
+		../webapps/mtec-img/mtec-im6.png \
 		../webapps/icones/users-gearw.png \
 		../webapps/icones/phone-officew.png \
 		../webapps/icones/message-questionw.png \
