@@ -1088,7 +1088,7 @@ uninstall_target: FORCE
 
 install_js_file: first FORCE
 	@test -d $(INSTALL_ROOT)/opt/webapps/bin || mkdir -p $(INSTALL_ROOT)/opt/webapps/bin
-	$(QINSTALL) /home/reboot/Desktop/mtec/metrotech-soft/prototypes/build-webapps-WebAssembly_Qt_6_4_3-Release/webapps.js $(INSTALL_ROOT)/opt/webapps/bin/webapps.js
+	$(QINSTALL_PROGRAM) /home/reboot/Desktop/mtec/metrotech-soft/prototypes/webapps/webapps.js $(INSTALL_ROOT)/opt/webapps/bin/webapps.js
 
 uninstall_js_file: FORCE
 	-$(DEL_FILE) -r $(INSTALL_ROOT)/opt/webapps/bin/webapps.js
